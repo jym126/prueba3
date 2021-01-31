@@ -3,4 +3,7 @@ public class HelloFromJose {
         //this is a test
         System.out.println("Hello from Jose");
     }
+    public void main(){
+        System.out.println("new changes");
+    }
 }
